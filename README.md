@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome! 🧙🏻‍♀️
+
+Hi, My name is Erica.  I do SRE / Sysadmin stuff by day.  This is my personal account where I store my coding projects and learning experiments.  
 
 <!--
 **EntropySynthetica/EntropySynthetica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
