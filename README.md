@@ -2,6 +2,8 @@
 
 Hi, My name is Erica.  I'm a DevOps Engineer living in the midwest.  This is my personal account where I store my coding projects and learning experiments.  
 
+[ericaslab.dev](https://ericaslab.dev)
+
 <!--
 **EntropySynthetica/EntropySynthetica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
